@@ -1,0 +1,14 @@
+oque eu tenho que fazer e escolher um ponto 
+e clicar nele si ele tiver uma embarcacao 
+mostra um X se nao apenas muda de cor para mostrar
+que houve uma escolha deste local 
+
+quando destruir todos os navios acaba o jogo
+
+meu tabuleiro vai olhar os cliques
+se acertou ou nao cada jogador vai ter uma 
+instancio do tabuleiro pra si
+
+e no game esses tabuleiros serao acessados pelo 
+adversario e o game vai mostrar quem acertou quem ganhou
+se uma area foi quicada ou naox 
